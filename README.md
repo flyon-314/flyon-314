@@ -1,2 +1,3 @@
-[![Donggyun's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle={guncell})](https://github.com/kookjd7759/solvedac-readme-stats)
-[![Donggyun's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle={heuicell})](https://github.com/kookjd7759/solvedac-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=guncell)](https://solved.ac/{guncell})
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heuicell)](https://solved.ac/{heuicell})
